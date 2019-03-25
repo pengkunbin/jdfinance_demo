@@ -7,9 +7,13 @@
 
 ```shell
 git clone https://github.com/pengkunbin/jdfinance_demo.git
+
 cd JDFinance
+
 npm install
+
+npm start
 ```
 
+
 # jdfinance_demo
->>>>>>> first commit
