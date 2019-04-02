@@ -5,11 +5,7 @@
 页面展示
 <br>
 
-<img width="300" height="700" src="https://raw.githubusercontent.com/pengkunbin/jdfinance_demo/master/img/blank.png">
-<img width="300" height="700" src="https://raw.githubusercontent.com/pengkunbin/jdfinance_demo/master/img/home.png">
-<img width="300" height="700" src="https://raw.githubusercontent.com/pengkunbin/jdfinance_demo/master/img/we.png">
-<img width="300" height="700" src="https://raw.githubusercontent.com/pengkunbin/jdfinance_demo/master/img/economic.png">
-
+<img width="350" height="700" src="https://raw.githubusercontent.com/pengkunbin/jdfinance_demo/master/img/blank.png">
 
 ### 安装
 
